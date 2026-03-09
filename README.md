@@ -1,1 +1,2 @@
-# My First GitHub Project through test script
+# My First GitHub Project through test script for GIT Beginners
+
