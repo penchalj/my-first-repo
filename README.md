@@ -1,4 +1,4 @@
-# My First DevOps Repository
+# First DevOps Repository
 
 This repository serves as a starting point for  development and DevOps workflow on **VMware Linux**. It is used to test SSH connectivity, Git configurations, and automated deployment scripts.
 
